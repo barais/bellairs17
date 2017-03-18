@@ -1,6 +1,6 @@
 ## About me
 - Professor @Univ Rennes 1, **Inria DiverSE Team**
-- Research domain
+- Research domains
   - MDE, models@Runtime and SLE
   - Component-based Software Architecture
   - Dynamic Software Product Line
