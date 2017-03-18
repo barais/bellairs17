@@ -1,5 +1,7 @@
 
-# WEB Engineering
+# Bellairs'17
 
 
-<img src="resources/image_1.jpg" width="30%">
+<img src="resources/img.jpg" width="70%">
+
+Olivier Barais
