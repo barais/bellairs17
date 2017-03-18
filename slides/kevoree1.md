@@ -14,7 +14,7 @@ public class LCDDisplay
      /*...*/ }
 ```
 
-<img src="figures/modelview.png" style="border-radius:5px; position:absolute;right:50px;top:320px;width:220px;" />
+<img src="resources/modelview.png" style="border-radius:5px; position:absolute;right:50px;top:320px;width:220px;" />
 
 - High level *DSL* to write distributed system adaptations
 
